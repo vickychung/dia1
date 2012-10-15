@@ -2,7 +2,7 @@
 
 puts "Hello Vicky, I'm running " +`jruby --version` 
 
-puts 
+puts "test continuous testing tool"
 
 
 
